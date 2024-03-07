@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>color</title>
+        <style>
+            h1{
+                color: greenyellow;
+            }
+        
+            
+            h2{
+                color: #ff1345;
+            }
+            h3{
+                color: rgb(from 154,205,50);
+            }
+            p{
+                color: rgb(from 18,205,20);
+            }
+        </style>
+    </head>
+    <body>
+
+<h1>Web Development</h1>
+       <p>Web development is the process of creating and maintaining websites and web applications.</p>
+       <h2>front end development</h2>
+       <p>This focuses on the client-side of web applications, where developers work on creating the user interface, ensuring a visually appealing and interactive user experience. 
+        It involves technologies like HTML, CSS, and JavaScript.</p>
+        <h3>back end development</h3>
+        <p>Back-end developers work on the server-side of web applications, handling data storage, user authentication, and server logic.
+             They often use server-side programming languages like Python, Ruby, or PHP and work with databases.</p>
+    </body>
